@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/pxt-sonar-strings.json"
+        "_locales/zh/sonar-strings.json"
     ],
     "testFiles": [
         "test.ts"
