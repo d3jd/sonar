@@ -1,14 +1,15 @@
 {
-    "name": "pxt-sonar",
+    "name": "sonar",
     "version": "0.0.5",
-    "description": "A MakeCode package to use sonar sensors",
+    "description": "第三基地 声纳扩展",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/zh/pxt-sonar-strings.json"
     ],
     "testFiles": [
         "test.ts"
