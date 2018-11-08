@@ -2,7 +2,7 @@
     "PingUnit.Centimeters|block": "厘米（cm）",
     "PingUnit.Inches|block": "英寸（inches）",
     "PingUnit.MicroSeconds|block": "微秒（μs）",
-    "sonar.ping|block": "发出超声波 发射端 %trig|接收超声波 接收端 %echo|结果单位 %unit",
+    "sonar.ping|block": "发出超声波 端口 %trig|接收超声波 端口 %echo|结果单位 %unit",
     "sonar|block": "超声波",
     "{id:category}Sonar": "超声波"
 }
