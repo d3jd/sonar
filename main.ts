@@ -10,7 +10,7 @@ enum PingUnit {
 /**
  * Sonar and ping utilities
  */
-//% color="#2c3e50" weight=10
+//% color="#2c3e50" weight=10 icon="\uf2ce"
 namespace sonar {
     /**
      * Send a ping and get the echo time (in microseconds) as a result
@@ -35,7 +35,7 @@ namespace sonar {
         switch (unit) {
             case PingUnit.Centimeters: return Math.idiv(d, 58);
             case PingUnit.Inches: return Math.idiv(d, 148);
-            default: return d ;
+            default: return d;
         }
     }
 }
