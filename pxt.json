@@ -1,6 +1,6 @@
 {
     "name": "sonar",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "第三基地 声纳扩展",
     "license": "MIT",
     "dependencies": {
